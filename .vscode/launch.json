@@ -23,6 +23,16 @@
       "url": "http://localhost:5000",
       "webRoot": "${workspaceFolder}/dist/"
       // "preLaunchTask": "preview production build"
+    },
+    {
+      "name": "Preview (Simple Web, Chrome)",
+      "type": "pwa-chrome",
+      "request": "launch",
+      // "outFiles": [],
+      // "perScriptSourcemaps": "yes",
+      "url": "http://localhost:8000",
+      "webRoot": "${workspaceFolder}/dist",
+      "preLaunchTask": "python3: http.server 8000 start"
     }
   ]
 }

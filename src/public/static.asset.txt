@@ -1,0 +1,1 @@
+This file is served from the root. It is also copied over unmodified to the distribution folder.

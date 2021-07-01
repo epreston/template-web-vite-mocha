@@ -1,0 +1,29 @@
+{
+  "name": "empty-project",
+  "version": "0.1.0",
+  "description": "Repo Template: vite, mocha-chai, eslint.",
+  "private": true,
+  "keywords": [],
+  "author": "Ed Preston",
+  "license": "MIT",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "dev": "vite",
+    "dev-strict": "vite --strictPort=true",
+    "build": "vite build --emptyOutDir",
+    "serve": "vite preview",
+    "serve-strict": "vite preview --strictPort=true",
+    "start": "vite --open='/index.html'",
+    "lint": "eslint src/**/*.js test/**/*.js",
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "eslint": "^7.29.0",
+    "eslint-config-prettier": "^8.3.0",
+    "mocha": "^9.0.1",
+    "vite": "^2.3.8"
+  }
+}

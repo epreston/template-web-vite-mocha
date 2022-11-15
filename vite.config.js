@@ -1,7 +1,8 @@
 // vite.config.js
-const { resolve } = require('path');
+import { resolve } from 'path';
+import { defineConfig } from 'vite';
 
-export default {
+export default defineConfig({
   // config options
   root: 'src',
   build: {
@@ -16,4 +17,4 @@ export default {
   // server: {
   //   open: '/index.html',
   // },
-};
+});

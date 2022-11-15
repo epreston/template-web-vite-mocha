@@ -6,7 +6,7 @@
   "configurations": [
     {
       "name": "Development",
-      "type": "pwa-chrome",
+      "type": "chrome",
       "request": "launch",
       // "outFiles": [],
       // "perScriptSourcemaps": "yes",
@@ -16,7 +16,7 @@
     },
     {
       "name": "Production Preview",
-      "type": "pwa-chrome",
+      "type": "chrome",
       "request": "launch",
       // "outFiles": [],
       // "perScriptSourcemaps": "yes",
@@ -26,7 +26,7 @@
     },
     {
       "name": "Preview (Simple Web, Chrome)",
-      "type": "pwa-chrome",
+      "type": "chrome",
       "request": "launch",
       // "outFiles": [],
       // "perScriptSourcemaps": "yes",

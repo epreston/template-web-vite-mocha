@@ -61,6 +61,4 @@ https://eslint.org/
 
 ## Copyright and License
 
-© 2022 Ed Preston
-
-See [License](LICENSE).
+© 2022 Ed Preston, See [License](LICENSE).

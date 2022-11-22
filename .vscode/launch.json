@@ -25,7 +25,7 @@
       // "preLaunchTask": "preview production build"
     },
     {
-      "name": "Preview (Simple Web, Chrome)",
+      "name": "Preview (Python Web, Chrome)",
       "type": "chrome",
       "request": "launch",
       // "outFiles": [],

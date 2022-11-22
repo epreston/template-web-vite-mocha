@@ -10,7 +10,7 @@
       "request": "launch",
       // "outFiles": [],
       // "perScriptSourcemaps": "yes",
-      "url": "http://localhost:3000",
+      "url": "http://localhost:5173",
       "webRoot": "${workspaceFolder}/src/"
       // "preLaunchTask": "start dev server"
     },
@@ -20,7 +20,7 @@
       "request": "launch",
       // "outFiles": [],
       // "perScriptSourcemaps": "yes",
-      "url": "http://localhost:5000",
+      "url": "http://localhost:4173",
       "webRoot": "${workspaceFolder}/dist/"
       // "preLaunchTask": "preview production build"
     },

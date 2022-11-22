@@ -16,13 +16,15 @@ To start a development server with hot module reloading:
 npm run dev
 ```
 
-To create a production build:
+## Preview Production Build
+
+To create a production build into "dist":
 
 ```sh
 npm run build
 ```
 
-## Preview Production Build
+To start a local server to preview:
 
 ```sh
 npm run preview

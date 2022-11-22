@@ -48,9 +48,9 @@
     },
     {
       "type": "npm",
-      "script": "serve",
+      "script": "preview",
       "problemMatcher": [],
-      "label": "npm: serve",
+      "label": "npm: preview",
       "detail": "vite preview",
       "presentation": {
         "echo": true,

@@ -25,7 +25,7 @@ npm run build
 ## Preview Production Build
 
 ```sh
-npm run serve
+npm run preview
 ```
 
 ## Linting
@@ -57,7 +57,6 @@ https://www.chaijs.com/
 
 ESLint
 https://eslint.org/
-
 
 ## Copyright and License
 

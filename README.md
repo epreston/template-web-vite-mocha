@@ -60,6 +60,6 @@ https://www.chaijs.com/
 ESLint
 https://eslint.org/
 
-## Copyright and License
+## License
 
-© 2022 Ed Preston, See [License](LICENSE).
+See [License](LICENSE).

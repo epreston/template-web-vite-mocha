@@ -48,17 +48,12 @@ npm run test
 
 ## References
 
-Vite
-https://vitejs.dev/
-
-Mocha
-https://mochajs.org/
-
-Chai Assertion Library
-https://www.chaijs.com/
-
-ESLint
-https://eslint.org/
+| Item                   | Reference               |
+| ---------------------- | ----------------------- |
+| Vite                   | https://vitejs.dev/     |
+| Mocha                  | https://mochajs.org/    |
+| Chai Assertion Library | https://www.chaijs.com/ |
+| ESLint                 | https://eslint.org/     |
 
 ## License
 

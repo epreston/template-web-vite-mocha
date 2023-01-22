@@ -9,10 +9,10 @@
       "type": "chrome",
       "request": "launch",
       "skipFiles": ["<node_internals>/**", "**/node_modules/**"],
-      // "outFiles": [],
+      // "runtimeArgs": ["--enable-precise-memory-info"],
       // "perScriptSourcemaps": "yes",
       "url": "http://localhost:5173",
-      "webRoot": "${workspaceFolder}/src/"
+      "webRoot": "${workspaceFolder}"
       // "preLaunchTask": "start dev server"
     },
     {
@@ -20,7 +20,7 @@
       "type": "chrome",
       "request": "launch",
       "skipFiles": ["<node_internals>/**", "**/node_modules/**"],
-      // "outFiles": [],
+      // "runtimeArgs": ["--enable-precise-memory-info"],
       // "perScriptSourcemaps": "yes",
       "url": "http://localhost:4173",
       "webRoot": "${workspaceFolder}/dist/"
@@ -31,7 +31,7 @@
       "type": "chrome",
       "request": "launch",
       "skipFiles": ["<node_internals>/**", "**/node_modules/**"],
-      // "outFiles": [],
+
       // "perScriptSourcemaps": "yes",
       "url": "http://localhost:8000",
       "webRoot": "${workspaceFolder}/dist",

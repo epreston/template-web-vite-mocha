@@ -1,4 +1,4 @@
-# Vite Web Project
+# Vite Mocha-Chai Web Project
 
 Repo Template: vite, mocha-chai, eslint.
 

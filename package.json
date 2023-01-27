@@ -1,17 +1,17 @@
 {
   "name": "empty-project",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Repo Template: vite, mocha-chai, eslint.",
   "private": true,
   "type": "module",
   "keywords": [],
-  "author": "Ed Preston",
+  "author": "",
   "license": "MIT",
   "files": [
     "dist"
   ],
   "engines": {
-    "node": ">=16.11.0"
+    "node": ">=16.19.0"
   },
   "scripts": {
     "dev": "vite",
@@ -29,5 +29,6 @@
     "eslint-config-prettier": "^8.6.0",
     "mocha": "^10.2.0",
     "vite": "^4.0.4"
-  }
+  },
+  "packageManager": "npm@8.19.3"
 }

@@ -1,8 +1,8 @@
 {
+  "private": true,
   "name": "empty-project",
   "version": "0.2.2",
   "description": "Repo Template: vite, mocha-chai, eslint.",
-  "private": true,
   "type": "module",
   "keywords": [],
   "author": "",

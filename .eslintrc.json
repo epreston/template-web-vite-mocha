@@ -11,10 +11,6 @@
     "sourceType": "module"
   },
   "extends": ["eslint:recommended", "prettier"],
-  "globals": {
-    "Atomics": "readonly",
-    "SharedArrayBuffer": "readonly"
-  },
   "rules": {
     "semi": "error",
 

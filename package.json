@@ -19,7 +19,7 @@
     "build": "vite build --emptyOutDir",
     "preview": "vite preview",
     "preview-host": "vite preview --host",
-    "start": "vite --open='/index.html'",
+    "start": "vite --open",
     "lint": "eslint src/**/*.js test/**/*.js",
     "test": "mocha"
   },

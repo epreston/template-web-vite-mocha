@@ -41,4 +41,4 @@ npm run dev
 
 ## License
 
-See [License](LICENSE).
+MIT [License](LICENSE).

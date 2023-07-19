@@ -1,9 +1,9 @@
 {
   "private": true,
+  "type": "module",
   "name": "empty-project",
   "version": "0.2.2",
   "description": "Repo Template: vite, mocha-chai, eslint.",
-  "type": "module",
   "keywords": [],
   "author": "",
   "license": "MIT",

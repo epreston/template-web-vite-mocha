@@ -6,7 +6,7 @@ import { defineConfig } from 'vite';
 export default defineConfig({
   // config options
   build: {
-    target: ['es2022', 'edge111', 'firefox111', 'chrome111', 'safari16.3', 'ios16.3'],
+    target: ['es2022', 'edge112', 'firefox112', 'chrome112', 'safari16.4', 'ios16.4'],
   },
   // server: {
   //   open: '/index.html',

@@ -31,13 +31,20 @@ npm run dev
 
 ## References
 
-| Item                   | Reference               |
-| ---------------------- | ----------------------- |
-| Node.js                | https://nodejs.org/     |
-| Vite                   | https://vitejs.dev/     |
-| Mocha                  | https://mochajs.org/    |
-| Chai Assertion Library | https://www.chaijs.com/ |
-| ESLint                 | https://eslint.org/     |
+| Item                   | Reference                |
+| ---------------------- | ------------------------ |
+| Node.js                | https://nodejs.org/      |
+| Vite                   | https://vitejs.dev/      |
+| Mocha                  | https://mochajs.org/     |
+| Chai Assertion Library | https://www.chaijs.com/  |
+| ESLint                 | https://eslint.org/      |
+| Prettier               | https://prettier.io      |
+| EditorConfig           | https://editorconfig.org |
+
+| Website      | Reference             |
+| ------------ | --------------------- |
+| Can I Use    | https://caniuse.com   |
+| Browserslist | https://browsersl.ist |
 
 ## License
 

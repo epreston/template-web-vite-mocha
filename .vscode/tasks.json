@@ -44,7 +44,7 @@
       "script": "lint",
       "problemMatcher": ["$eslint-stylish"],
       "label": "npm: lint",
-      "detail": "eslint --ext .js --env-info ."
+      "detail": "eslint --ext .js ."
     },
     {
       "type": "npm",

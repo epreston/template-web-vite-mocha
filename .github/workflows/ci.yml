@@ -8,9 +8,11 @@ name: CI
 
 on:
   workflow_dispatch:
+
   push:
     branches: [ "main" ]
     paths-ignore: ['README.md', 'LICENSE', '.vscode/**']
+
   pull_request:
     branches: [ "main" ]
     paths-ignore: ['README.md', 'LICENSE', '.vscode/**']
@@ -20,7 +22,7 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
-  ci-on-node:
+  continuous-integration:
 
     runs-on: ubuntu-latest
 

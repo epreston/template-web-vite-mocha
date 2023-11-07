@@ -17,5 +17,9 @@
   },
   "[markdown]": {
     "files.trimTrailingWhitespace": false
-  }
+  },
+  "cSpell.ignoreWords": [
+    "convertacolor",
+    "epreston"
+  ]
 }

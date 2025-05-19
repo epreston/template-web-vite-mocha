@@ -38,7 +38,7 @@
     "@epreston/tsconfig": "^1.2.1",
     "@types/node": "22.15.17",
     "chai": "^5.2.0",
-    "eslint": "^9.26.0",
+    "eslint": "^9.27.0",
     "mocha": "^10.8.2",
     "vite": "^5.4.18"
   }

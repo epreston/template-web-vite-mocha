@@ -36,7 +36,7 @@
     "@epreston/eslint-config": "^2.1.1",
     "@epreston/prettier-config": "^2.1.0",
     "@epreston/tsconfig": "^1.2.1",
-    "@types/node": "22.15.30",
+    "@types/node": "24.3.0",
     "chai": "^5.2.1",
     "eslint": "^9.34.0",
     "mocha": "^10.8.2",

@@ -33,10 +33,10 @@
     "test": "mocha"
   },
   "devDependencies": {
-    "@epreston/eslint-config": "^2.1.1",
+    "@epreston/eslint-config": "^2.3.0",
     "@epreston/prettier-config": "^2.1.0",
     "@epreston/tsconfig": "^1.2.1",
-    "@types/node": "25.0.6",
+    "@types/node": "25.0.8",
     "chai": "^6.2.2",
     "eslint": "^9.39.2",
     "mocha": "^11.7.5",

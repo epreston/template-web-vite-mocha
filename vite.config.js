@@ -4,6 +4,6 @@ import { defineConfig } from 'vite';
 export default defineConfig({
   // config options
   build: {
-    target: ['es2022']
+    target: ['es2024']
   }
 });
